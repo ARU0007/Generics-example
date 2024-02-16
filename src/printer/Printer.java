@@ -1,6 +1,7 @@
 package printer;
 
 //creating a generic class(T)
+//can use any variable
 public class Printer<T> {
 
     //creating a variable of generic type
